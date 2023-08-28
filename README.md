@@ -1,6 +1,6 @@
 # Documentação
 
-###Sobre o Inclued
+### Sobre o Inclued
 
 Inclued é o nome do nosso projeto que visa criar uma plataforma web para o gerenciamento eficiente de restrições e informações relacionadas a alunos em uma escola. Com ele, os pais podem facilmente cadastrar as restrições de seus filhos, enquanto os administradores têm acesso a uma lista centralizada dessas restrições. O Inclued simplifica o processo de comunicação e registro, proporcionando mais segurança e conveniência para pais, alunos e escola.
 
