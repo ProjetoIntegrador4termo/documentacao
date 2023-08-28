@@ -40,10 +40,10 @@ Para seguir o tutorial de instalação[ clique aqui.]()
 
 ## Equipe
 
-→ Emily Tsen
+→ Emily Tsen, scrum master
 
-→ Felipe Ferreira
+→ Felipe Ferreira, dev
 
-→ Maik Vinicius
+→ Maik Vinicius, dev
 
-→ Mariana Galvão
+→ Mariana Galvão, PO
