@@ -47,6 +47,6 @@ Para seguir o tutorial de instalação[ clique aqui.]()
 
 → Felipe Ferreira
 
-→ Maik
+→ Maik Vinicius
 
 → Mariana Galvão
