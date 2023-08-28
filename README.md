@@ -19,7 +19,7 @@ Para seguir o tutorial de instalação[ clique aqui.]()
 
 [Matriz de Habilidade](https://docs.google.com/spreadsheets/d/1Ce5za26fjh81y-CPH_ip-zuaIkgzUGW0/edit?usp=sharing&ouid=112148828200283219321&rtpof=true&sd=true)
 
-[Mapa de Técnologias](https://www.canva.com/design/DAFs3r6OK80/neGHMvZcbo62oDFCZKsepA/edit?utm_content=DAFs3r6OK80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Mapa de Tecnologias](https://www.canva.com/design/DAFs3r6OK80/neGHMvZcbo62oDFCZKsepA/edit?utm_content=DAFs3r6OK80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
