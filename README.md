@@ -31,15 +31,15 @@ Para seguir o tutorial de instalação[ clique aqui.]()
 - [x] Formação de Grupo
 - [x] Definição do Projeto 
 - [x] Levantamento de Requisitos
-- [ ] Prototipação
-- [ ] Instalação de Ferramentas
-- [ ] Modelagem do Banco de Dados
-- [ ] Feedback do Professor
-- [ ] Programação
-- [ ] Conexão da API
-- [ ] Ajustes Finais 
-- [ ] Teste Final
-- [ ] Validação do Projeto 
+- [x] Prototipação
+- [x] Instalação de Ferramentas
+- [x] Modelagem do Banco de Dados
+- [x] Feedback do Professor
+- [x] Programação
+- [x] Conexão da API
+- [x] Ajustes Finais 
+- [x] Teste Final
+- [x] Validação do Projeto 
 - [ ] Apresentação do Projeto Validado
 - [ ] Fechamento do Projeto
 
